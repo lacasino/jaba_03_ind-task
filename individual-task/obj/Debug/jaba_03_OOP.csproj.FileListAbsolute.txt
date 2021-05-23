@@ -1,0 +1,10 @@
+C:\Users\3nora\Desktop\ЧНУ\Л.Р.№3 ООП\individual-task\obj\Debug\jaba_03_OOP.csprojAssemblyReference.cache
+C:\Users\3nora\Desktop\ЧНУ\Л.Р.№3 ООП\individual-task\obj\Debug\individual_task.Form1.resources
+C:\Users\3nora\Desktop\ЧНУ\Л.Р.№3 ООП\individual-task\obj\Debug\individual_task.Properties.Resources.resources
+C:\Users\3nora\Desktop\ЧНУ\Л.Р.№3 ООП\individual-task\obj\Debug\jaba_03_OOP.csproj.GenerateResource.cache
+C:\Users\3nora\Desktop\ЧНУ\Л.Р.№3 ООП\individual-task\obj\Debug\jaba_03_OOP.csproj.CoreCompileInputs.cache
+C:\Users\3nora\Desktop\ЧНУ\Л.Р.№3 ООП\individual-task\obj\Debug\individual-task.exe
+C:\Users\3nora\Desktop\ЧНУ\Л.Р.№3 ООП\individual-task\obj\Debug\individual-task.pdb
+C:\Users\3nora\Desktop\ЧНУ\Л.Р.№3 ООП\individual-task\bin\Debug\individual-task.exe.config
+C:\Users\3nora\Desktop\ЧНУ\Л.Р.№3 ООП\individual-task\bin\Debug\individual-task.exe
+C:\Users\3nora\Desktop\ЧНУ\Л.Р.№3 ООП\individual-task\bin\Debug\individual-task.pdb

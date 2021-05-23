@@ -1,0 +1,19 @@
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\bin\Debug\individual-task.exe.config
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\bin\Debug\individual-task.exe
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\bin\Debug\individual-task.pdb
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual-task.csprojAssemblyReference.cache
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual_task.Form1.resources
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual_task.Properties.Resources.resources
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual-task.csproj.GenerateResource.cache
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual-task.exe
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual-task.pdb
+C:\Users\3nora\Downloads\laba--3--oop-master\individual-task\individual-task\bin\Debug\individual-task.exe.config
+C:\Users\3nora\Downloads\laba--3--oop-master\individual-task\individual-task\bin\Debug\individual-task.exe
+C:\Users\3nora\Downloads\laba--3--oop-master\individual-task\individual-task\bin\Debug\individual-task.pdb
+C:\Users\3nora\Downloads\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual-task.csprojAssemblyReference.cache
+C:\Users\3nora\Downloads\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual_task.Form1.resources
+C:\Users\3nora\Downloads\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual_task.Properties.Resources.resources
+C:\Users\3nora\Downloads\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual-task.csproj.GenerateResource.cache
+C:\Users\3nora\Downloads\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual-task.csproj.CoreCompileInputs.cache
+C:\Users\3nora\Downloads\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual-task.exe
+C:\Users\3nora\Downloads\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual-task.pdb
